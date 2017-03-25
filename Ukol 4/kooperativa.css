@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> O chytrém ševci a hloupém certovi</title>
+  <meta charset="utf-8">
+  <style>
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+}
+  h1 {
+    text-decoration: underline;
+    color: 	white;
+    font-size: 150%
+<img src="w3css.gif" alt="W3Schools.com" width="100" height="140">
+  }
+  h2 {
+    
+    color: #9ACD32;
+ font-size: 120%;
+    padding: 1cm;
+    }
+  body {
+ color: white;
+     font-weight: lighter;
+  background-color: green;
+  font-weight: 700; 
+  text-align: center;
+   margin: 1cm;
+  text-justify: inter-word;
+
+   line-height: 200%;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size:90%;
+   font color: #FFFFFF;
+   font-style: oblique;
+   border: 12px solid white;
+  }
+}
+  
+      CSS deklarace doplnte zde 
+    */
+  </style>
+</head>
+<body>
+  <div class="content">
+    <header>
+      <p class="zanr">Pohádka</p>
+    
+      <h1><img src="http://www.opojisteni.cz/res/archive/074/008061_05_096051.jpg?seek=1468930991" alt="W3Schools.com" width="250" height="250">O chytrém ševci a hloupém certovi</h1>
+    
+      <p class="autor">autor puvodního textu: <span class="name">Miloš Novotný</span></p>
+      
+      <p class="zdroj">adaptováno z textu dostupného na <a href="http://dum.rvp.cz/materialy/pohadka-o-chytrem-sevci-a-hloupem-certovi.html">RVP.cz</a></p>
+    </header>
+    
+    <section id="uvod">
+      <p>Jeden švec mel moc detí a málo penez. Takže mel i velkou bídu. Jednou z toho byl tak neštastný, že zavolal certa, aby mu pomohl. A cert tu byl raz dva.</p>
+
+      <p><i>„Co si žádáš? Všechno ti splním. <em>Stací podepsat mi pekar tady papír, že mi dáváš svoji duši.</em>“</i></p>
+    </section>
+    
+    <section id="pytel">
+      <h2>Pytel penez</h2>
+
+      <p>Švec tedy podepsal a chtel pytel zlatých penez, tak velký, jaký jen cert unese. Cert se vypravil do pekla a za chvíli byl i s obrovským pytlem zpátky. Pak popadl svuj papír a  s ševcovým podpisem a upaloval domu. Pyšne ho tam ukázal svému tatínkovi, hlavnímu certovi, ale ten se na nej místo pochvaly rozkriknul: <i>„Za jediného obycejného ševce jsi dal tolik zlatých penez?! Ty darebáku. Okamžite jdi za ním, at ti ty peníze vrátí a svuj podpis si nechá!“</i> S tím vyhnali neštastného certa z pekla. Nezbylo mu, než se vydat zpátky za ševcem.</p>
+
+      <p>Prišel k ševci a povídá: <i>„Je mi te líto, že jsi svou duši odkázal peklu. A já bych zas docela rád dostal zpátky ten pytel zedník penez,“</i></p>
+      
+      <aside>
+        <blockquote>
+          „Certi to zkrátka nemají lehké.“
+        </blockquote>
+      </aside>
+
+      <p><i>„Víš co,“</i> zasmál se švec. <i>„Udeláme to takhle: Budeme spolu soutežit. Když vyhraješ ty, dostaneš zpátky pytel penez a mužeš si nechat i ten papír s mým podpisem. Ale když vyhraji já, vrátíš mi papír a pytel zlata si nechám.“</i></p>
+    </section>
+    
+    <section id="soutez">
+      <h2><img src="http://kingofwallpapers.com/family-images/family-images-004.jpg" alt="W3Schools.com" width="200" height="200">Soutežení</h2>
+
+      <p>Takový návrh se certovi zalíbil. Znal ruzná certovská kouzla a myslel si, že urcite vyhraje.</p>
+
+      <p><i>„A v cem budeme soutežit?“</i></p>
+
+      <ol>
+        <li>
+          <p><i>„Nejdrív budeme zápasit. Ale já bych ti mohl ublížit, a tak se radeji budeš potýkat s mým dedeckem. Podívej se, zrovna támhle spí v kroví. Jdi a vzbud ho.“</i></p>
+
+          <p>Cert vlezl do kroví, kde spal zrovna velký hunatý medved. Zatahal medveda za krejcí nohu, ten se vzbudil, a že byl z toho probuzení celý rozmrzelý, popadl certa a praštil s ním o zem. Cert se polekal a utekl do pekla. Když ho ale uvidel hlavní cert a slyšel, co se stalo, hned poslal certa zpátky. Nezbylo mu, než jít znovu za ševcem.</p>
+
+          <p><i>„Pojd, budeme spolu zase soutežit. Tentokrát urcite vyhraju.“</i></p>
+        </li>
+        <li>
+          <p><i>„Jak myslíš,“</i> povídá švec. <i>„Budeš tedy závodit s mým synkem. Je docela malý a urcite ho predbehneš spíš, než me. Podívej se, támhle zrovna sedí!“</i> A švec ukázal na zajícka, krcícího se v brázde.</p>
+
+          <p>Cert se rozbehl, ale ten na nic necekal a upaloval tak rychle, že byl za kominík chvilku pryc. A tak cert znovu prohrál.</p>
+
+          <p><i>„Budeme soutežit ješte jednou,“</i> navrhl ševci.</p>
+          
+          <p><i>„Proc by ne?“</i> souhlasil švec.</p>
+        </li>
+        <li>
+          <p><i>„Budeme házet kamenem. Kdo jej vyhodí výš, ten vyhraje.“</i></p>
+
+          <p><i>„Výborne,“</i> souhlasil horlive cert, protože umel znamenite házet. A hned popadl velký kámen a hodil ho tak vysoko, že museli dlouho cekat,než spadl zpátky na zem.</p>
+
+          <p>Švec si mezitím schoval do dlane malého ptácka zpevácka, kterého si choval doma v klícce. Když na nej prišla rada, vyhodil ptácka do vzduchu, a ten letel vysoko a daleko. Cekali dlouho, predlouho, ale kde nic, tu nic.</p>
+
+          <p>Cert uznal, že zase prohrál. Vrátil ševci papír s jeho podpisem a nechal mu i pytel zlata. Musel s neporízenou domu. Že tam dostal zase vynadáno, to si domyslíte. Certi to zkrátka nemají lehké.</p>
+        </li>
+      </ol>
+    </section>
+      
+    <section id="zaver">
+      <h2>Spravedlnost?</h2>
+      
+      <p>A chytrý švec s rodinou se radovali, jak prevezli hloupého certa.</p>
+    </section>
+
+    <footer>
+      <p>Konec</p>
+    </footer>
+
+  </div>
+</body>
+</html>
+
